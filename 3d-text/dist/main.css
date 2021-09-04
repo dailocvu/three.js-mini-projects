@@ -1,0 +1,30 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+} */
+body {
+  height: 100vh;
+  background-color: #040b0c;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
